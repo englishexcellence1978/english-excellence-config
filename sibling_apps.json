@@ -1,0 +1,52 @@
+{
+  "apps": [
+    {
+      "id": "eprep_m1",
+      "name": "e-Prep M1",
+      "subtitle": "แอปฝึกทำข้อสอบเข้า ม.1",
+      "packageId": "com.englishexcellence.eprepm1",
+      "playStoreUrl": "",
+      "visible": false
+    },
+    {
+      "id": "eprep_pk",
+      "name": "e-Prep ภาค ก",
+      "subtitle": "แอปฝึกทำข้อสอบ ภาค ก. (ภาษาอังกฤษ)",
+      "packageId": "com.englishexcellence.epreppk",
+      "playStoreUrl": "",
+      "visible": false
+    },
+    {
+      "id": "egrammar",
+      "name": "e-Grammar",
+      "subtitle": "แอปฝึกแกรมมาร์ภาษาอังกฤษ",
+      "packageId": "com.englishexcellence.egrammar1",
+      "playStoreUrl": "",
+      "visible": false
+    },
+    {
+      "id": "evocab",
+      "name": "e-Vocab",
+      "subtitle": "แอปฝึกคำศัพท์ภาษาอังกฤษ",
+      "packageId": "com.englishexcellence.evocab",
+      "playStoreUrl": "",
+      "visible": false
+    },
+    {
+      "id": "eexercise_p",
+      "name": "e-Exercise P",
+      "subtitle": "แบบฝึกหัดก่อนสอบ ป.ปลาย",
+      "packageId": "com.englishexcellence.eexerciseprathom",
+      "playStoreUrl": "",
+      "visible": false
+    },
+    {
+      "id": "eexercise_m",
+      "name": "e-Exercise M",
+      "subtitle": "แบบฝึกหัดก่อนสอบ ม.ต้น",
+      "packageId": "com.englishexcellence.eexercise",
+      "playStoreUrl": "",
+      "visible": false
+    }
+  ]
+}
