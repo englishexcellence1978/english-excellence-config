@@ -3,7 +3,7 @@
     {
       "id": "eprep_m1",
       "name": "e-Prep M1",
-      "subtitle": "แอปฝึกทำข้อสอบเข้า ม.1",
+      "subtitle": "แอปฝึกทำข้อสอบเข้า ม.1 วิชาภาษาอังกฤษ",
       "packageId": "com.englishexcellence.eprepm1",
       "playStoreUrl": "",
       "visible": false
@@ -11,31 +11,31 @@
     {
       "id": "eprep_pk",
       "name": "e-Prep ภาค ก",
-      "subtitle": "แอปฝึกทำข้อสอบ ภาค ก. (ภาษาอังกฤษ)",
+      "subtitle": "แอปฝึกทำข้อสอบ ภาค ก วิชาภาษาอังกฤษ",
       "packageId": "com.englishexcellence.epreppk",
       "playStoreUrl": "",
       "visible": false
     },
     {
       "id": "egrammar",
-      "name": "e-Grammar",
-      "subtitle": "แอปฝึกแกรมมาร์ภาษาอังกฤษ",
-      "packageId": "com.englishexcellence.egrammar1",
+      "name": "Grammar Master",
+      "subtitle": "แอปฝึกไวยากรณ์ภาษาอังกฤษ",
+      "packageId": "com.englishexcellence.grammarmaster",
       "playStoreUrl": "",
       "visible": false
     },
     {
       "id": "evocab",
-      "name": "e-Vocab",
+      "name": "Vocab Master",
       "subtitle": "แอปฝึกคำศัพท์ภาษาอังกฤษ",
-      "packageId": "com.englishexcellence.evocab",
+      "packageId": "com.englishexcellence.vocabmaster",
       "playStoreUrl": "",
       "visible": false
     },
     {
       "id": "eexercise_p",
       "name": "e-Exercise P",
-      "subtitle": "แบบฝึกหัดก่อนสอบ ป.ปลาย",
+      "subtitle": "แบบฝึกหัด ป.4 - ป.6",
       "packageId": "com.englishexcellence.eexerciseprathom",
       "playStoreUrl": "",
       "visible": false
@@ -43,7 +43,7 @@
     {
       "id": "eexercise_m",
       "name": "e-Exercise M",
-      "subtitle": "แบบฝึกหัดก่อนสอบ ม.ต้น",
+      "subtitle": "แบบฝึกหัด ม.1 - ม.3",
       "packageId": "com.englishexcellence.eexercise",
       "playStoreUrl": "",
       "visible": false
