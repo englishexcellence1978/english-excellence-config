@@ -9,6 +9,24 @@
       "visible": false
     },
     {
+      "id": "tiew_eng_m1_m3",
+      "name": "ติว Eng ม.1 - ม.3",
+      "subtitle": "แอปติวภาษาอังกฤษ ม.1 - ม.3 แยกตามหัวข้อ",
+      "packageId": "com.englishexcellence.tiewengm1m3",
+      "playStoreUrl": "",
+      "visible": false,
+      "color": "#FCB321"
+    },
+    {
+      "id": "tiew_eng_p4_p6",
+      "name": "ติว Eng ป.4 - ป.6",
+      "subtitle": "แอปติวภาษาอังกฤษ ป.4 - ป.6 แยกตามหัวข้อ",
+      "packageId": "com.englishexcellence.tiewengp4p6",
+      "playStoreUrl": "",
+      "visible": false,
+      "color": "#028603"
+    },
+    {
       "id": "eprep_pk",
       "name": "e-Prep ภาค ก",
       "subtitle": "แอปฝึกทำข้อสอบ ภาค ก วิชาภาษาอังกฤษ",
