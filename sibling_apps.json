@@ -32,7 +32,7 @@
       "subtitle": "แอปฝึกทำข้อสอบ ภาค ก วิชาภาษาอังกฤษ",
       "packageId": "com.englishexcellence.epreppk",
       "playStoreUrl": "",
-      "visible": false
+      "visible": true
     },
     {
       "id": "egrammar",
@@ -40,7 +40,7 @@
       "subtitle": "แอปฝึกไวยากรณ์ภาษาอังกฤษ",
       "packageId": "com.englishexcellence.grammarmaster",
       "playStoreUrl": "",
-      "visible": false
+      "visible": true
     },
     {
       "id": "evocab",
@@ -48,7 +48,7 @@
       "subtitle": "แอปฝึกคำศัพท์ภาษาอังกฤษ",
       "packageId": "com.englishexcellence.vocabmaster",
       "playStoreUrl": "",
-      "visible": false
+      "visible": true
     },
     {
       "id": "eexercise_p",
