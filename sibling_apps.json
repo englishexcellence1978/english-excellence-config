@@ -9,6 +9,38 @@
       "visible": false
     },
     {
+      "id": "evocab",
+      "name": "Vocab Master",
+      "subtitle": "แอปฝึกคำศัพท์ภาษาอังกฤษ",
+      "packageId": "com.englishexcellence.vocabmaster",
+      "playStoreUrl": "",
+      "visible": true
+    },
+    {
+      "id": "egrammar",
+      "name": "Grammar Master",
+      "subtitle": "แอปฝึกไวยากรณ์ภาษาอังกฤษ",
+      "packageId": "com.englishexcellence.grammarmaster",
+      "playStoreUrl": "",
+      "visible": true
+    },
+    {
+      "id": "eexercise_m",
+      "name": "e-Exercise M",
+      "subtitle": "แบบฝึกหัด ม.1 - ม.3",
+      "packageId": "com.englishexcellence.eexercise",
+      "playStoreUrl": "",
+      "visible": true
+    },
+    {
+      "id": "eexercise_p",
+      "name": "e-Exercise P",
+      "subtitle": "แบบฝึกหัด ป.4 - ป.6",
+      "packageId": "com.englishexcellence.eexerciseprathom",
+      "playStoreUrl": "",
+      "visible": false
+    },
+    {
       "id": "tiew_eng_m1_m3",
       "name": "ติว Eng ม.1 - ม.3",
       "subtitle": "แอปติวภาษาอังกฤษ ม.1 - ม.3 แยกตามหัวข้อ",
@@ -26,43 +58,11 @@
       "visible": false,
       "color": "#028603"
     },
-    {
+        {
       "id": "eprep_pk",
       "name": "e-Prep ภาค ก",
       "subtitle": "แอปฝึกทำข้อสอบ ภาค ก วิชาภาษาอังกฤษ",
       "packageId": "com.englishexcellence.epreppk",
-      "playStoreUrl": "",
-      "visible": true
-    },
-    {
-      "id": "egrammar",
-      "name": "Grammar Master",
-      "subtitle": "แอปฝึกไวยากรณ์ภาษาอังกฤษ",
-      "packageId": "com.englishexcellence.grammarmaster",
-      "playStoreUrl": "",
-      "visible": true
-    },
-    {
-      "id": "evocab",
-      "name": "Vocab Master",
-      "subtitle": "แอปฝึกคำศัพท์ภาษาอังกฤษ",
-      "packageId": "com.englishexcellence.vocabmaster",
-      "playStoreUrl": "",
-      "visible": true
-    },
-    {
-      "id": "eexercise_p",
-      "name": "e-Exercise P",
-      "subtitle": "แบบฝึกหัด ป.4 - ป.6",
-      "packageId": "com.englishexcellence.eexerciseprathom",
-      "playStoreUrl": "",
-      "visible": false
-    },
-    {
-      "id": "eexercise_m",
-      "name": "e-Exercise M",
-      "subtitle": "แบบฝึกหัด ม.1 - ม.3",
-      "packageId": "com.englishexcellence.eexercise",
       "playStoreUrl": "",
       "visible": true
     }
