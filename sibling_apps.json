@@ -38,7 +38,7 @@
       "subtitle": "แบบฝึกหัด ป.4 - ป.6",
       "packageId": "com.englishexcellence.eexerciseprathom",
       "playStoreUrl": "",
-      "visible": false
+      "visible": true
     },
     {
       "id": "tiew_eng_m1_m3",
@@ -46,7 +46,7 @@
       "subtitle": "แอปติวภาษาอังกฤษ ม.1 - ม.3 แยกตามหัวข้อ",
       "packageId": "com.englishexcellence.tiewengm1m3",
       "playStoreUrl": "",
-      "visible": false,
+      "visible": true,
       "color": "#FCB321"
     },
     {
